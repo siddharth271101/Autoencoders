@@ -10,7 +10,7 @@ This notebook shows the implementation of following autoencoders:
 - Sequence-to-sequence autoencoder
 - Variational autoencoder
 
-This notebook also covers some interesting practical applications of autoencoders such as **data denoising** and **dimensionality reduction for data visaulisation**.
+This notebook also covers some interesting practical applications of autoencoders such as **data denoising** and **dimensionality reduction for data visualisation**.
 
 ### Data Denoising 
 **input and output**
